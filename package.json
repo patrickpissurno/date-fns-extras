@@ -1,6 +1,6 @@
 {
   "name": "date-fns-extras",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some extra utilities not found in date-fns",
   "main": "index.js",
   "scripts": {
