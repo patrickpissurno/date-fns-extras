@@ -32,7 +32,8 @@ const parse = require('date-fns/parse');
 const addBusinessMinutes = require('date-fns-extras/addBusinessMinutes');
 
 const date = parse('2022-09-02 16:30:00', 'yyyy-MM-dd HH:mm:ss', new Date());
-console.log(addBusinessMinutes(date, 32)); //returns: 2022-09-05 09:02:00
+console.log(addBusinessMinutes(date, 32));
+// 2022-09-05 09:02:00
 ```
 
 The `start` and the `end` options allow the working hours to be specified. By default: 9am to 5pm.
