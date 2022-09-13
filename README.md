@@ -2,7 +2,7 @@
 [![npm-version](https://img.shields.io/npm/v/date-fns-extras.svg)](https://www.npmjs.com/package/date-fns-extras)
 [![coverage status](https://coveralls.io/repos/github/patrickpissurno/date-fns-extras/badge.svg?branch=main)](https://coveralls.io/github/patrickpissurno/date-fns-extras?branch=main)
 [![known vulnerabilities](https://snyk.io/test/github/patrickpissurno/date-fns-extras/badge.svg)](https://snyk.io/test/github/patrickpissurno/date-fns-extras)
-[![downloads](https://img.shields.io/npm/dt/date-fns-extras.svg)](http://npm-stats.com/~packages/date-fns-extras)
+[![downloads](https://img.shields.io/npm/dt/date-fns-extras.svg)](https://www.npmjs.com/package/date-fns-extras)
 [![license](https://img.shields.io/github/license/patrickpissurno/date-fns-extras.svg?maxAge=1800)](https://github.com/patrickpissurno/date-fns-extras/blob/main/LICENSE)
 
 Some extra utilities not found in date-fns
